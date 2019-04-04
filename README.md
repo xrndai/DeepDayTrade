@@ -16,3 +16,10 @@ Historical stock price information is collected over a 2-year time period. Every
 To assess performance, we use several measures to indicate the significance of our findings. A straight forward method of prediction is to look at the absolute difference our prediction is from the actual value and calculate the percentage of chance. While this is useful for noting generalize how close our predictions, it doesn’t describe all the important elements of the problem.
 
  Capital gain is an underlying incentive in stock price prediction, so it is not only necessary to predict the price accurately in relative amount, but directional correctness is desirable as well. This is because trades are profitable when bought low and sold high. To be able to profit from stock price changes, it is necessary to know which direction the stock will move in the future.
+
+
+## References
+
+Navon, et al. “Financial Time Series Prediction Using Deep Learning.” [Astro-Ph/0005112] A Determination of the Hubble Constant from Cepheid Distances and a Model of the Local Peculiar Velocity Field, American Physical Society, 11 Nov. 2017, arxiv.org/abs/1711.04174.
+
+Yue-Gang, et al. “Neural Networks for Stock Price Prediction.” [Astro-Ph/0005112] A Determination of the Hubble Constant from Cepheid Distances and a Model of the Local Peculiar Velocity Field, American Physical Society, 29 May 2018, arxiv.org/abs/1805.11317.
